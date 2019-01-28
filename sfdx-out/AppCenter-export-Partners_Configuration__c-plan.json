@@ -1,0 +1,10 @@
+[
+    {
+        "sobject": "Partners_Configuration__c",
+        "saveRefs": true,
+        "resolveRefs": false,
+        "files": [
+            "AppCenter-export-Partners_Configuration__cs.json"
+        ]
+    }
+]

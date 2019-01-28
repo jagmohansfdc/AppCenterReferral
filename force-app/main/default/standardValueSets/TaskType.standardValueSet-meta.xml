@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StandardValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <sorted>true</sorted>
+    <standardValue>
+        <fullName>&lt;None&gt;</fullName>
+        <default>true</default>
+        <label>&lt;None&gt;</label>
+    </standardValue>
+    <standardValue>
+        <fullName>BMI cannot be used: Invalid Reason</fullName>
+        <default>false</default>
+        <label>BMI cannot be used: Invalid Reason</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Call - Connect and Sell</fullName>
+        <default>false</default>
+        <label>Call - Connect and Sell</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Call - Conversation</fullName>
+        <default>false</default>
+        <label>Call - Conversation</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Call - CoV</fullName>
+        <default>false</default>
+        <label>Call - CoV</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Call - Free Trial Issue</fullName>
+        <default>false</default>
+        <label>Call - Free Trial Issue</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Call - Free Trial Nurture</fullName>
+        <default>false</default>
+        <label>Call - Free Trial Nurture</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Call - Left Voicemail</fullName>
+        <default>false</default>
+        <label>Call - Left Voicemail</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Call - No Answer</fullName>
+        <default>false</default>
+        <label>Call - No Answer</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Call - Partner Call</fullName>
+        <default>false</default>
+        <label>Call - Partner Call</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Call - Voice-mail Received</fullName>
+        <default>false</default>
+        <label>Call - Voice-mail Received</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Certification Review</fullName>
+        <default>false</default>
+        <label>Certification Review</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Client Call- External</fullName>
+        <default>false</default>
+        <label>Client Call- External</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Client Call- Internal</fullName>
+        <default>false</default>
+        <label>Client Call- Internal</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Completed To Do</fullName>
+        <default>false</default>
+        <label>Completed To Do</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Connect - Competitive</fullName>
+        <default>false</default>
+        <label>Connect - Competitive</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Connect - Education</fullName>
+        <default>false</default>
+        <label>Connect - Education</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Connect - Footprint</fullName>
+        <default>false</default>
+        <label>Connect - Footprint</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Connect - GCO Attach</fullName>
+        <default>false</default>
+        <label>Connect - GCO Attach</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Connect - GCO Growth</fullName>
+        <default>false</default>
+        <label>Connect - GCO Growth</label>
+    </standardValue>
+    <standardValue>
+        <fullName>CoV - Call</fullName>
+        <default>false</default>
+        <label>CoV - Call</label>
+    </standardValue>
+    <standardValue>
+        <fullName>CoV - Campaign</fullName>
+        <default>false</default>
+        <label>CoV - Campaign</label>
+    </standardValue>
+    <standardValue>
+        <fullName>CoV - Email</fullName>
+        <default>false</default>
+        <label>CoV - Email</label>
+    </standardValue>
+    <standardValue>
+        <fullName>CoV - Intro Call</fullName>
+        <default>false</default>
+        <label>CoV - Intro Call</label>
+    </standardValue>
+    <standardValue>
+        <fullName>CoV - Partner Referral</fullName>
+        <default>false</default>
+        <label>CoV - Partner Referral</label>
+    </standardValue>
+    <standardValue>
+        <fullName>CoV - Web Lead</fullName>
+        <default>false</default>
+        <label>CoV - Web Lead</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Demo-On-Site</fullName>
+        <default>false</default>
+        <label>Demo-On-Site</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Demo Preparation</fullName>
+        <default>false</default>
+        <label>Demo Preparation</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Demo-Remote</fullName>
+        <default>false</default>
+        <label>Demo-Remote</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Email</fullName>
+        <default>false</default>
+        <label>Email</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Email Pitch (Highspot)</fullName>
+        <default>false</default>
+        <label>Email Pitch (Highspot)</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Email Received</fullName>
+        <default>false</default>
+        <label>Email Received</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Email Sent</fullName>
+        <default>false</default>
+        <label>Email Sent</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Form Submit</fullName>
+        <default>false</default>
+        <label>Form Submit</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Gap - Concur Premium</fullName>
+        <default>false</default>
+        <label>Gap - Concur Premium</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Gap - Concur Professional</fullName>
+        <default>false</default>
+        <label>Gap - Concur Professional</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Gap - Concur Standard</fullName>
+        <default>false</default>
+        <label>Gap - Concur Standard</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Incomplete/Unclear Notes for Legal Team</fullName>
+        <default>false</default>
+        <label>Incomplete/Unclear Notes for Legal Team</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Incomplete Non-BMI Opp</fullName>
+        <default>false</default>
+        <label>Incomplete Non-BMI Opp</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Incorrect &#39;Contract Action&#39; Selected</fullName>
+        <default>false</default>
+        <label>Incorrect &#39;Contract Action&#39; Selected</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Incorrect product(s) used/chosen</fullName>
+        <default>false</default>
+        <label>Incorrect product(s) used/chosen</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Link Pitch (Highspot)</fullName>
+        <default>false</default>
+        <label>Link Pitch (Highspot)</label>
+    </standardValue>
+    <standardValue>
+        <fullName>List Upload</fullName>
+        <default>false</default>
+        <label>List Upload</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Live Pitch (Highspot)</fullName>
+        <default>false</default>
+        <label>Live Pitch (Highspot)</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Marketing</fullName>
+        <default>false</default>
+        <label>Marketing</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Marketing Interview Notes</fullName>
+        <default>false</default>
+        <label>Marketing Interview Notes</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Meeting - Concur Rep</fullName>
+        <default>false</default>
+        <label>Meeting - Concur Rep</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Meeting – Onsite</fullName>
+        <default>false</default>
+        <label>Meeting – Onsite</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Meeting - Partner</fullName>
+        <default>false</default>
+        <label>Meeting - Partner</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Meeting – Virtual</fullName>
+        <default>false</default>
+        <label>Meeting – Virtual</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Missing Approval(s)</fullName>
+        <default>false</default>
+        <label>Missing Approval(s)</label>
+    </standardValue>
+    <standardValue>
+        <fullName>No Email Quote: Hourly Prof Services</fullName>
+        <default>false</default>
+        <label>No Email Quote: Hourly Prof Services</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Non-Rev-Annual Tech/Vend review (RFI)</fullName>
+        <default>false</default>
+        <label>Non-Rev-Annual Tech/Vend review (RFI)</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Non-Rev - Client Meeting-demo</fullName>
+        <default>false</default>
+        <label>Non-Rev - Client Meeting-demo</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Non-Rev - Client Meeting-discussion</fullName>
+        <default>false</default>
+        <label>Non-Rev - Client Meeting-discussion</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Non-Rev - Email Inquiry</fullName>
+        <default>false</default>
+        <label>Non-Rev - Email Inquiry</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Non-Rev - Internal Strategy</fullName>
+        <default>false</default>
+        <label>Non-Rev - Internal Strategy</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Non-Rev - Research / Prep</fullName>
+        <default>false</default>
+        <label>Non-Rev - Research / Prep</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Non-Rev-Technical/Security questions</fullName>
+        <default>false</default>
+        <label>Non-Rev-Technical/Security questions</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Onsite</fullName>
+        <default>false</default>
+        <label>Onsite</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Other</fullName>
+        <default>false</default>
+        <label>Other</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Partner Speed Networking</fullName>
+        <default>false</default>
+        <label>Partner Speed Networking</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Press</fullName>
+        <default>false</default>
+        <label>Press</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Primary BMI quote not &#39;Approved&#39;</fullName>
+        <default>false</default>
+        <label>Primary BMI quote not &#39;Approved&#39;</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Remote</fullName>
+        <default>false</default>
+        <label>Remote</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Research Prospect</fullName>
+        <default>false</default>
+        <label>Research Prospect</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Rev-Config Svs - Client Mtg-demo</fullName>
+        <default>false</default>
+        <label>Rev-Config Svs - Client Mtg-demo</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Rev-Config Svs - Client Mtg-discussion</fullName>
+        <default>false</default>
+        <label>Rev-Config Svs - Client Mtg-discussion</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Rev-Config Svs - Email Inquiry</fullName>
+        <default>false</default>
+        <label>Rev-Config Svs - Email Inquiry</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Rev-Config Svs - Internal Strategy</fullName>
+        <default>false</default>
+        <label>Rev-Config Svs - Internal Strategy</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Rev-Config Svs - Research / Prep</fullName>
+        <default>false</default>
+        <label>Rev-Config Svs - Research / Prep</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Rev-Missing Opp - Client Mtg-demo</fullName>
+        <default>false</default>
+        <label>Rev-Missing Opp - Client Mtg-demo</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Rev-Missing Opp-Client Mtg-discussion</fullName>
+        <default>false</default>
+        <label>Rev-Missing Opp-Client Mtg-discussion</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Rev-Missing Opp - Email Inquiry</fullName>
+        <default>false</default>
+        <label>Rev-Missing Opp - Email Inquiry</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Rev-Missing Opp - Internal Strategy</fullName>
+        <default>false</default>
+        <label>Rev-Missing Opp - Internal Strategy</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Rev-Missing Opp - Research / Prep</fullName>
+        <default>false</default>
+        <label>Rev-Missing Opp - Research / Prep</label>
+    </standardValue>
+    <standardValue>
+        <fullName>RFP Documentation</fullName>
+        <default>false</default>
+        <label>RFP Documentation</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Snail Mail</fullName>
+        <default>false</default>
+        <label>Snail Mail</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Systematized process should be utilized</fullName>
+        <default>false</default>
+        <label>Systematized process should be utilized</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Technical Review</fullName>
+        <default>false</default>
+        <label>Technical Review</label>
+    </standardValue>
+    <standardValue>
+        <fullName>To Do</fullName>
+        <default>false</default>
+        <label>To Do</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Training</fullName>
+        <default>false</default>
+        <label>Training</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Website Visit</fullName>
+        <default>false</default>
+        <label>Website Visit</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Work with FS to correct BMI errors</fullName>
+        <default>false</default>
+        <label>Work with FS to correct BMI errors</label>
+    </standardValue>
+</StandardValueSet>

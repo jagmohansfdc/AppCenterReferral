@@ -1,0 +1,6 @@
+<apex:component controller="EmailTemplateTaskWhoDataController" access="global">
+    <apex:attribute name="taskWhoId" assignTo="{!attrTaskWhoId}" type="id" description="Task WhoId" />
+    <apex:attribute name="listOfFieldApiNames" assignTo="{!attrListOfFieldApiNames}" type="String" description="A list of field names to retrieve" />
+    <apex:attribute name="listOfFieldLabels" assignTo="{!attrListOfFieldLabels}" type="String" description="A list of field names to retrieve" />
+    <apex:outputText escape="false" value="{!dataDisplayInHtml}"/>
+</apex:component>

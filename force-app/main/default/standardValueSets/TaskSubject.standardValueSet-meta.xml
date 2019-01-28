@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StandardValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <sorted>true</sorted>
+    <standardValue>
+        <fullName>Account Review Actions</fullName>
+        <default>false</default>
+        <label>Account Review Actions</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Account Transition Notes</fullName>
+        <default>false</default>
+        <label>Account Transition Notes</label>
+    </standardValue>
+    <standardValue>
+        <fullName>AM meeting - No Direct Oppty</fullName>
+        <default>false</default>
+        <label>AM meeting - No Direct Oppty</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Annual Site Review</fullName>
+        <default>false</default>
+        <label>Annual Site Review</label>
+    </standardValue>
+    <standardValue>
+        <fullName>App Center Engagement</fullName>
+        <default>false</default>
+        <label>App Center Engagement</label>
+    </standardValue>
+    <standardValue>
+        <fullName>BD Meeting - No Direct Oppty</fullName>
+        <default>false</default>
+        <label>BD Meeting - No Direct Oppty</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Bid Management</fullName>
+        <default>false</default>
+        <label>Bid Management</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Business Review</fullName>
+        <default>false</default>
+        <label>Business Review</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Call</fullName>
+        <default>false</default>
+        <label>Call</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Call - Performance</fullName>
+        <default>false</default>
+        <label>Call - Performance</label>
+    </standardValue>
+    <standardValue>
+        <fullName>CDEV EMEA: In-Country Opportunity</fullName>
+        <default>false</default>
+        <label>CDEV EMEA: In-Country Opportunity</label>
+    </standardValue>
+    <standardValue>
+        <fullName>CDEV EMEA: Request for Information</fullName>
+        <default>false</default>
+        <label>CDEV EMEA: Request for Information</label>
+    </standardValue>
+    <standardValue>
+        <fullName>CDEV EMEA: Request to Profile Account</fullName>
+        <default>false</default>
+        <label>CDEV EMEA: Request to Profile Account</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Check-In Call</fullName>
+        <default>false</default>
+        <label>Check-In Call</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Client Business Review</fullName>
+        <default>false</default>
+        <label>Client Business Review</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Client Escalation Call</fullName>
+        <default>false</default>
+        <label>Client Escalation Call</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Client Onsite Visit</fullName>
+        <default>false</default>
+        <label>Client Onsite Visit</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Client Success Story</fullName>
+        <default>false</default>
+        <label>Client Success Story</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Completed Invoice Profile</fullName>
+        <default>false</default>
+        <label>Completed Invoice Profile</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Concurforce package installation</fullName>
+        <default>false</default>
+        <label>Concurforce package installation</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Connector package installation</fullName>
+        <default>false</default>
+        <label>Connector package installation</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Contract Issued</fullName>
+        <default>false</default>
+        <label>Contract Issued</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Contract Request</fullName>
+        <default>false</default>
+        <label>Contract Request</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Courtesy Demo</fullName>
+        <default>false</default>
+        <label>Courtesy Demo</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Credit Memo Request</fullName>
+        <default>false</default>
+        <label>Credit Memo Request</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Credit request - Performance</fullName>
+        <default>false</default>
+        <label>Credit request - Performance</label>
+    </standardValue>
+    <standardValue>
+        <fullName>CS Consultant Call</fullName>
+        <default>false</default>
+        <label>CS Consultant Call</label>
+    </standardValue>
+    <standardValue>
+        <fullName>CS Consultant Site Visit</fullName>
+        <default>false</default>
+        <label>CS Consultant Site Visit</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Deal Strategy</fullName>
+        <default>false</default>
+        <label>Deal Strategy</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Demo</fullName>
+        <default>false</default>
+        <label>Demo</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Demo (Blind)</fullName>
+        <default>false</default>
+        <label>Demo (Blind)</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Demo (No SC Discovery)</fullName>
+        <default>false</default>
+        <label>Demo (No SC Discovery)</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Demo - No Discovery</fullName>
+        <default>false</default>
+        <label>Demo - No Discovery</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Demonstration</fullName>
+        <default>false</default>
+        <label>Demonstration</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Demo - Onsite</fullName>
+        <default>false</default>
+        <label>Demo - Onsite</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Demo Prep</fullName>
+        <default>false</default>
+        <label>Demo Prep</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Demo - Remote</fullName>
+        <default>false</default>
+        <label>Demo - Remote</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Demo - Webinar</fullName>
+        <default>false</default>
+        <label>Demo - Webinar</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Discovery</fullName>
+        <default>false</default>
+        <label>Discovery</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Discovery/CVI</fullName>
+        <default>false</default>
+        <label>Discovery/CVI</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Discovery Demo</fullName>
+        <default>false</default>
+        <label>Discovery Demo</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Discovery Notes Attached</fullName>
+        <default>false</default>
+        <label>Discovery Notes Attached</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Discovery - Onsite</fullName>
+        <default>false</default>
+        <label>Discovery - Onsite</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Discovery Prep</fullName>
+        <default>false</default>
+        <label>Discovery Prep</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Discovery - Remote</fullName>
+        <default>false</default>
+        <label>Discovery - Remote</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Dry Run</fullName>
+        <default>false</default>
+        <label>Dry Run</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Executive Overviews (EOs)</fullName>
+        <default>false</default>
+        <label>Executive Overviews (EOs)</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Follow-Up</fullName>
+        <default>false</default>
+        <label>Follow-Up</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Gap</fullName>
+        <default>false</default>
+        <label>Gap</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Go Live</fullName>
+        <default>false</default>
+        <label>Go Live</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Initial Review</fullName>
+        <default>false</default>
+        <label>Initial Review</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Internal Account Planning Engagement</fullName>
+        <default>false</default>
+        <label>Internal Account Planning Engagement</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Intro Call</fullName>
+        <default>false</default>
+        <label>Intro Call</label>
+    </standardValue>
+    <standardValue>
+        <fullName>IT/Meeting</fullName>
+        <default>false</default>
+        <label>IT/Meeting</label>
+    </standardValue>
+    <standardValue>
+        <fullName>IT Meeting - Demo</fullName>
+        <default>false</default>
+        <label>IT Meeting - Demo</label>
+    </standardValue>
+    <standardValue>
+        <fullName>IT Meeting - Specific</fullName>
+        <default>false</default>
+        <label>IT Meeting - Specific</label>
+    </standardValue>
+    <standardValue>
+        <fullName>KD/Training</fullName>
+        <default>false</default>
+        <label>KD/Training</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Knowledge Development Topic</fullName>
+        <default>false</default>
+        <label>Knowledge Development Topic</label>
+    </standardValue>
+    <standardValue>
+        <fullName>L&amp;L</fullName>
+        <default>false</default>
+        <label>L&amp;L</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Lead to Partner</fullName>
+        <default>false</default>
+        <label>Lead to Partner</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Marketing Event</fullName>
+        <default>false</default>
+        <label>Marketing Event</label>
+    </standardValue>
+    <standardValue>
+        <fullName>New Asset Follow Up</fullName>
+        <default>false</default>
+        <label>New Asset Follow Up</label>
+    </standardValue>
+    <standardValue>
+        <fullName>New Asset Follow Up - Invoice</fullName>
+        <default>false</default>
+        <label>New Asset Follow Up - Invoice</label>
+    </standardValue>
+    <standardValue>
+        <fullName>New Contact</fullName>
+        <default>false</default>
+        <label>New Contact</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Non-Revenue Activity</fullName>
+        <default>false</default>
+        <label>Non-Revenue Activity</label>
+    </standardValue>
+    <standardValue>
+        <fullName>NPS Follow Up</fullName>
+        <default>false</default>
+        <label>NPS Follow Up</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Out of Office</fullName>
+        <default>false</default>
+        <label>Out of Office</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Partner Discussion</fullName>
+        <default>false</default>
+        <label>Partner Discussion</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Past Due AR</fullName>
+        <default>false</default>
+        <label>Past Due AR</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Phase 2 Scoping</fullName>
+        <default>false</default>
+        <label>Phase 2 Scoping</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Post-Discovery</fullName>
+        <default>false</default>
+        <label>Post-Discovery</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Post Sales Support</fullName>
+        <default>false</default>
+        <label>Post Sales Support</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Pre-Call Plan</fullName>
+        <default>false</default>
+        <label>Pre-Call Plan</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Preparation</fullName>
+        <default>false</default>
+        <label>Preparation</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Prep - External</fullName>
+        <default>false</default>
+        <label>Prep - External</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Prep - Internal</fullName>
+        <default>false</default>
+        <label>Prep - Internal</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Pre-Qualification</fullName>
+        <default>false</default>
+        <label>Pre-Qualification</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Price Increase Program</fullName>
+        <default>false</default>
+        <label>Price Increase Program</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Revenue - Config Services</fullName>
+        <default>false</default>
+        <label>Revenue - Config Services</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Revenue - Missing Opportunity in SFDC</fullName>
+        <default>false</default>
+        <label>Revenue - Missing Opportunity in SFDC</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Review Proposal with RSE</fullName>
+        <default>false</default>
+        <label>Review Proposal with RSE</label>
+    </standardValue>
+    <standardValue>
+        <fullName>RFP</fullName>
+        <default>false</default>
+        <label>RFP</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Risk Assessment</fullName>
+        <default>false</default>
+        <label>Risk Assessment</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Sales Reference</fullName>
+        <default>false</default>
+        <label>Sales Reference</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Send Quote</fullName>
+        <default>false</default>
+        <label>Send Quote</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Solution Review</fullName>
+        <default>false</default>
+        <label>Solution Review</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Strategy</fullName>
+        <default>false</default>
+        <label>Strategy</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Technical/Security Questions</fullName>
+        <default>false</default>
+        <label>Technical/Security Questions</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Technical Discussion</fullName>
+        <default>false</default>
+        <label>Technical Discussion</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Termination Request</fullName>
+        <default>false</default>
+        <label>Termination Request</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Travel Solutions Researched - No Opportunity</fullName>
+        <default>false</default>
+        <label>Travel Solutions Researched - No Opportunity</label>
+    </standardValue>
+    <standardValue>
+        <fullName>TTX Business Review</fullName>
+        <default>false</default>
+        <label>TTX Business Review</label>
+    </standardValue>
+    <standardValue>
+        <fullName>User Conference Exec Meeting</fullName>
+        <default>false</default>
+        <label>User Conference Exec Meeting</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Video</fullName>
+        <default>false</default>
+        <label>Video</label>
+    </standardValue>
+    <standardValue>
+        <fullName>VM - Message Left</fullName>
+        <default>false</default>
+        <label>VM - Message Left</label>
+    </standardValue>
+    <standardValue>
+        <fullName>VM - No Message Left</fullName>
+        <default>false</default>
+        <label>VM - No Message Left</label>
+    </standardValue>
+</StandardValueSet>

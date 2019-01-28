@@ -1,0 +1,710 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RecordType xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>App_Center_Referral</fullName>
+    <active>true</active>
+    <label>App Center Referral</label>
+    <picklistValues>
+        <picklist>Priority</picklist>
+        <values>
+            <fullName>High</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Low</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Normal</fullName>
+            <default>true</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>Status</picklist>
+        <values>
+            <fullName>Completed</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>In Progress</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Not Started</fullName>
+            <default>true</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>Subject</picklist>
+        <values>
+            <fullName>AM meeting - No Direct Oppty</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Account Review Actions</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Account Transition Notes</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Annual Site Review</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>App Center Engagement</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>BD Meeting - No Direct Oppty</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Bid Management</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Business Review</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>CDEV EMEA%3A In-Country Opportunity</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>CDEV EMEA%3A Request for Information</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>CDEV EMEA%3A Request to Profile Account</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>CS Consultant Call</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>CS Consultant Site Visit</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Call</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Call - Performance</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Check-In Call</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Client Business Review</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Client Escalation Call</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Client Onsite Visit</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Client Success Story</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Completed Invoice Profile</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Concurforce package installation</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Connector package installation</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Contract Issued</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Contract Request</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Courtesy Demo</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Credit Memo Request</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Credit request - Performance</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Deal Strategy</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Demo</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Demo %28Blind%29</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Demo %28No SC Discovery%29</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Demo - No Discovery</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Demo - Onsite</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Demo - Remote</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Demo - Webinar</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Demo Prep</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Demonstration</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Discovery</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Discovery - Onsite</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Discovery - Remote</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Discovery Demo</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Discovery Notes Attached</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Discovery Prep</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Discovery%2FCVI</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Dry Run</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Executive Overviews %28EOs%29</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Follow-Up</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Gap</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Go Live</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>IT Meeting - Demo</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>IT Meeting - Specific</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>IT%2FMeeting</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Initial Review</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Internal Account Planning Engagement</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Intro Call</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>KD%2FTraining</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Knowledge Development Topic</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>L%26L</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Lead to Partner</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Marketing Event</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>NPS Follow Up</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>New Asset Follow Up</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>New Asset Follow Up - Invoice</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>New Contact</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Non-Revenue Activity</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Out of Office</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Partner Discussion</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Past Due AR</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Phase 2 Scoping</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Post Sales Support</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Post-Discovery</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Pre-Call Plan</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Pre-Qualification</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Prep - External</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Prep - Internal</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Preparation</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Price Increase Program</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>RFP</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Revenue - Config Services</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Revenue - Missing Opportunity in SFDC</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Review Proposal with RSE</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Risk Assessment</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Send Quote</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Solution Review</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Strategy</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>TTX Business Review</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Technical Discussion</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Technical%2FSecurity Questions</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Termination Request</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Travel Solutions Researched - No Opportunity</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>User Conference Exec Meeting</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>VM - Message Left</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>VM - No Message Left</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Video</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>Type</picklist>
+        <values>
+            <fullName>%3CNone%3E</fullName>
+            <default>true</default>
+        </values>
+        <values>
+            <fullName>BMI cannot be used%3A Invalid Reason</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Call - CoV</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Call - Connect and Sell</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Call - Conversation</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Call - Free Trial Issue</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Call - Free Trial Nurture</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Call - Left Voicemail</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Call - No Answer</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Call - Partner Call</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Call - Voice-mail Received</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Certification Review</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Client Call- External</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Client Call- Internal</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Completed To Do</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Demo Preparation</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Demo-On-Site</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Demo-Remote</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Email</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Email Pitch %28Highspot%29</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Email Received</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Email Sent</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Form Submit</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Gap - Concur Premium</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Gap - Concur Professional</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Gap - Concur Standard</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Incomplete Non-BMI Opp</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Incomplete%2FUnclear Notes for Legal Team</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Incorrect %27Contract Action%27 Selected</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Incorrect product%28s%29 used%2Fchosen</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Link Pitch %28Highspot%29</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>List Upload</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Live Pitch %28Highspot%29</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Marketing</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Marketing Interview Notes</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Meeting %E2%80%93 Onsite</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Meeting %E2%80%93 Virtual</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Meeting - Concur Rep</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Meeting - Partner</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Missing Approval%28s%29</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>No Email Quote%3A Hourly Prof Services</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Non-Rev - Client Meeting-demo</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Non-Rev - Client Meeting-discussion</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Non-Rev - Email Inquiry</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Non-Rev - Internal Strategy</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Non-Rev - Research %2F Prep</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Non-Rev-Annual Tech%2FVend review %28RFI%29</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Non-Rev-Technical%2FSecurity questions</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Onsite</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Other</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Press</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Primary BMI quote not %27Approved%27</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>RFP Documentation</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Remote</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Research Prospect</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Rev-Config Svs - Client Mtg-demo</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Rev-Config Svs - Client Mtg-discussion</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Rev-Config Svs - Email Inquiry</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Rev-Config Svs - Internal Strategy</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Rev-Config Svs - Research %2F Prep</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Rev-Missing Opp - Client Mtg-demo</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Rev-Missing Opp - Email Inquiry</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Rev-Missing Opp - Internal Strategy</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Rev-Missing Opp - Research %2F Prep</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Rev-Missing Opp-Client Mtg-discussion</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Snail Mail</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Systematized process should be utilized</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Technical Review</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>To Do</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Training</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Website Visit</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Work with FS to correct BMI errors</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+</RecordType>

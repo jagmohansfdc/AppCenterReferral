@@ -1,0 +1,102 @@
+<apex:page controller="AppCenterController" lightningStylesheets="true" sidebar="false">
+    <apex:slds /> 
+    <script>function setFocusOnLoad() {}</script>
+    <apex:form >
+      <!--  <apex:actionFunction name="CategoryChanged" rerender="pbSection" action="{!CategoryChanged}"/>
+        
+        -->
+        <apex:actionFunction name="ContactUpdated" rerender="pbSection" action="{!ContactUpdated}"/>
+        <apex:sectionHeader title="Task" subtitle="New Task"/>
+        <apex:pageBlock title="Task Edit" id="pbSection" mode="Edit">
+            <apex:pageMessages ></apex:pageMessages>
+            <!-- Buttons -->
+            <apex:pageBlockButtons >            
+            <apex:commandButton value="Save" action="{!saveTask}" />
+            <apex:commandButton value="Cancel" action="{!cancelTask}"/>
+            </apex:pageBlockButtons>
+            
+            <apex:pageBlockSection title="Task Information" collapsible="false">   
+            <apex:pageblocksectionitem >
+            <apex:outputlabel >Due Date</apex:outputlabel>
+            <apex:outputpanel layout="block" styleClass="requiredInput">
+            <apex:outputpanel layout="block" styleClass="requiredBlock"></apex:outputpanel>
+            <apex:inputfield value="{!tsk.ActivityDate}"></apex:inputfield>
+            </apex:outputpanel>
+            </apex:pageblocksectionitem>
+            <apex:pageblocksectionitem >
+            <apex:outputlabel >Related To</apex:outputlabel>
+            <apex:outputpanel layout="block" styleClass="requiredInput">
+            <apex:outputpanel layout="block" styleClass="requiredBlock"></apex:outputpanel>
+            <apex:inputfield value="{!tsk.WhatId}"></apex:inputfield>
+            </apex:outputpanel>
+            </apex:pageblocksectionitem>   
+            <apex:pageblocksectionitem >
+            <apex:outputlabel >Assigned To</apex:outputlabel>
+            <apex:outputpanel layout="block" styleClass="requiredInput">
+            <apex:outputpanel layout="block" styleClass="requiredBlock"></apex:outputpanel>
+            <apex:inputfield value="{!tsk.OwnerId}"></apex:inputfield>
+            </apex:outputpanel>
+            </apex:pageblocksectionitem>
+            <apex:pageblocksectionitem >
+            <apex:outputlabel >Subject</apex:outputlabel>
+            <apex:outputpanel layout="block" styleClass="requiredInput">
+            <apex:outputpanel layout="block" styleClass="requiredBlock"></apex:outputpanel>
+            <apex:inputfield value="{!tsk.Subject}"></apex:inputfield>
+            </apex:outputpanel>
+            </apex:pageblocksectionitem>
+            <apex:inputField value="{!tsk.Contact_Me_First__c}"/> 
+            <apex:pageBlockSectionItem >
+            <apex:outputlabel >App Center Partner</apex:outputlabel>
+            <apex:outputpanel layout="block" styleClass="requiredInput">
+            <apex:outputpanel layout="block" styleClass="requiredBlock"></apex:outputpanel>
+            <apex:selectList size="1" value="{!selectedPartner}"> 
+            <apex:selectOptions value="{!Partners}" />  
+            </apex:selectList>
+            </apex:outputpanel>
+            </apex:pageblocksectionitem>
+               
+          
+           
+              
+             
+            <!-- <apex:inputField value="{!tsk.WhatId}"/> . -->
+            </apex:pageBlockSection>
+             <apex:pageBlockSection id="appCenterSection" columns="1">   
+             <apex:pageBlockSectionItem >
+               <apex:outputLabel ></apex:outputLabel>
+                <apex:outputLabel style="width: 900px; !important; color: Red;">For ENT accounts only, please use the text box to add a max of two more Referrers, if applicable. 
+Otherwise, enter pertinent notes that the Partner should receive.</apex:outputLabel>
+           </apex:pageBlockSectionItem>
+            </apex:pageBlockSection> 
+            <apex:pageBlockSection columns="1">
+            <apex:inputField style="width: 500px;height: 90px !important;" value="{!tsk.description}" html-placeholder="Enter any notes to partner" /> 
+            </apex:pageBlockSection>    
+            <apex:pageBlockSection title="Additional Information" collapsible="false">
+            <apex:inputField value="{!tsk.Status}"/>   
+            <apex:pageblocksectionitem >   
+            <apex:outputlabel >Name</apex:outputlabel>
+           
+            <apex:outputpanel layout="block" styleClass="requiredInput">
+            <apex:outputpanel layout="block" styleClass="requiredBlock"></apex:outputpanel>
+            <apex:inputField value="{!tsk.WhoId}" onchange="ContactUpdated();" ></apex:inputfield>          
+            </apex:outputpanel>
+            
+            </apex:pageblocksectionitem>   
+            <apex:inputField value="{!tsk.Priority}"/>
+            <apex:pageblocksectionitem >
+            <apex:outputlabel >Phone</apex:outputlabel>
+            <apex:outputText >{!phone}</apex:outputText>
+            </apex:pageblocksectionitem>   
+            <apex:outputLabel ></apex:outputLabel>
+            <apex:pageblocksectionitem >
+            <apex:outputlabel >Email</apex:outputlabel>
+            <apex:outputText >{!email}</apex:outputText>
+            </apex:pageblocksectionitem>
+            </apex:pageBlockSection>
+            <apex:pageBlockSection title="System Information" collapsible="false">
+            <apex:outputLabel ></apex:outputLabel>    
+            <apex:outputField value="{!tsk.RecordTypeId}"/>   
+            </apex:pageBlockSection>    
+        </apex:pageBlock>
+    </apex:form>
+</apex:page>

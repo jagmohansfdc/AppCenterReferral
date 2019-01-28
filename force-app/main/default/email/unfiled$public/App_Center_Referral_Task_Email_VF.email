@@ -1,0 +1,72 @@
+<messaging:emailTemplate subject="Concur App Center Notification" recipientType="User" relatedToType="Task">
+<messaging:htmlEmailBody >
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head>
+<title>Concur</title>
+
+<style type="text/css">
+    body { background-color: #cbcbc4; font-family: helvetica, arial; font-size: 14px; font-weight: normal; color: #444444; }
+    a:link { font-style: bold; font-family: helvetica, arial; color: #00a9f2; font-weight: normal; text-decoration: none; }
+    a:hover { font-style: bold; font-family: helvetica, arial; color: #004a7d; font-weight: bold; text-decoration: none; }
+    a:visited { font-style: bold; font-family: helvetica, arial; color: #00a9f2; font-weight: bold; text-decoration: underline; }
+    h1 { font-family: helvetica, arial; font-size: 22px; font-weight: bold; padding: 0px; margin: 0em; }
+    h2 { font-family: helvetica, arial; font-size: 20px; font-weight: bold; padding: 0px; margin: 0em; color: #0078c9;}
+    h3 { font-family: helvetica, arial; font-size: 18px; font-weight: bold; padding: 0px; margin: 0em; }
+    p  { font-family: helvetica, arial; font-size: 14px; font-weight: normal; padding: 0px; margin: 1em 0em; }
+    td { font-family: helvetica, arial; font-size: 14px; font-weight: normal; }
+    li { font-family: helvetica, arial; font-size: 14px; font-weight: normal; padding: 0px; margin: 0em;}
+    div.taskWhoFieldSet span.taskWhoFieldName { font-weight: bold; }
+    img#companylogo { width: 334px; height: 60px; }
+</style>
+</head>
+<body ><!-- Header Links - This is/will be a snippet -->
+<table style="width: 600px; padding-bottom: 15px;" width="600" align="center" cellpadding="0" cellspacing="0"></table>
+<!-- Content Container -->
+<table style="background:#ffffff; width:600px; " width="600" align="center" cellpadding="0" cellspacing="0" ><!-- Concur Logo -->
+<tr>
+<td style="padding:15px 30px;" align="left" bgcolor="">
+<apex:image id="companylogo" url="{!SUBSTITUTE(LEFT($CurrentPage.URL,FIND('/',$CurrentPage.URL,9)), ".visual.force.com", ".content.force.com")}servlet/servlet.ImageServer?id=0150e000001HwUg&amp;oid={!$Organization.Id}" />
+</td>
+</tr>
+<!-- Body Content -->
+<tr ><td style="padding:15px 30px; " >
+<div class="mktEditable" id="bodyContent" ><p><strong><span style="font-size: 18px;">Concur App Center Notification:</span></strong></p>
+<p>The following Concur sales rep has submitted a prospect/lead for your app. Please plan to follow-up with this prospective customer at your earliest convenience.</p>
+<p>If for some reason you do not accept this lead you need to email concur_partnerclientactivation@sap.com within 20 days otherwise acceptance is assumed.</p>
+<p><strong><u>Form Data:</u></strong></p>
+<div class="taskWhoFieldSet"><span class="taskWhoFieldName">App Center Partner: </span><span class="taskWhoFieldValue"> {!relatedTo.App_Center_Partner__c}</span></div>
+<br />
+<p><c:EmailTemplateTaskWhoData taskWhoId="{!relatedTo.WhoId}" 
+    listOfFieldApiNames="FirstName,LastName,Title,Email,Phone"
+    listOfFieldLabels="Contact First Name,Contact Last Name,Contact Title,Contact Email,Contact Business Phone" /></p>
+<br />
+<p><c:EmailTemplateTaskWhoData taskWhoId="{!relatedTo.WhatId}" 
+    listOfFieldApiNames="Name,Billing_St__c,Billing_City__c,Billing_State_Province__c,Billing_Zip_Postal__c,Billing_Country__c"
+    listOfFieldLabels="Account Name,Account Address,Account City,Account State,Account Zip/Postal,Account Country" /></p>
+<br />
+<p>
+<div class="taskWhoFieldSet"><span class="taskWhoFieldName">Submitted By First Name: </span><span class="taskWhoFieldValue">{!relatedTo.CreatedBy.FirstName}</span></div>
+<div class="taskWhoFieldSet"><span class="taskWhoFieldName">Submitted By Last Name: </span><span class="taskWhoFieldValue">{!relatedTo.CreatedBy.LastName}</span></div>
+<div class="taskWhoFieldSet"><span class="taskWhoFieldName">Submitted By Title: </span><span class="taskWhoFieldValue">{!relatedTo.CreatedBy.Title}</span></div>
+<div class="taskWhoFieldSet"><span class="taskWhoFieldName">Submitted By Email: </span><span class="taskWhoFieldValue">{!relatedTo.CreatedBy.Email}</span></div>
+<div class="taskWhoFieldSet"><span class="taskWhoFieldName">Submitted By Phone: </span><span class="taskWhoFieldValue">{!relatedTo.CreatedBy.Phone}</span></div>
+<br />
+<div class="taskWhoFieldSet"><span class="taskWhoFieldName">Contact Me First: </span><span class="taskWhoFieldValue"> {!IF(relatedTo.Contact_Me_First__c,"Yes","No")}</span></div>
+<br />
+<div class="taskWhoFieldSet"><span class="taskWhoFieldName">Comments:<br /></span><span class="taskWhoFieldValue">{!relatedTo.Description}</span></div>
+</p>
+
+
+</div>
+</td>
+</tr>
+</table>
+<!-- Footer Links - This is/will be a snippet -->
+<table style="width: 600px; padding-bottom: 15px;" width="600" align="center" cellpadding="0" cellspacing="0"></table>
+</body>
+</html>
+
+
+</messaging:htmlEmailBody>
+</messaging:emailTemplate>

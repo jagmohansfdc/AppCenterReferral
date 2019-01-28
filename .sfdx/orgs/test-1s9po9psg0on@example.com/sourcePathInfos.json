@@ -1,0 +1,886 @@
+[
+    [
+        "/Users/i860042/iWeek2019/AppCenterReferral/force-app",
+        {
+            "sourcePath": "/Users/i860042/iWeek2019/AppCenterReferral/force-app",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1548555722308,
+            "changeTime": 1548555722308,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/i860042/iWeek2019/AppCenterReferral/force-app/main",
+        {
+            "sourcePath": "/Users/i860042/iWeek2019/AppCenterReferral/force-app/main",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1548555722308,
+            "changeTime": 1548555722308,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/i860042/iWeek2019/AppCenterReferral/force-app/main/default",
+        {
+            "sourcePath": "/Users/i860042/iWeek2019/AppCenterReferral/force-app/main/default",
+            "isDirectory": true,
+            "size": 288,
+            "modifiedTime": 1548556564961,
+            "changeTime": 1548556564961,
+            "contentHash": "1c93b76bfc44490114461b2abde1c0342f61c7b3",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/i860042/iWeek2019/AppCenterReferral/force-app/main/default/aura",
+        {
+            "sourcePath": "/Users/i860042/iWeek2019/AppCenterReferral/force-app/main/default/aura",
+            "isDirectory": true,
+            "size": 64,
+            "modifiedTime": 1548555722311,
+            "changeTime": 1548555722311,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/i860042/iWeek2019/AppCenterReferral/force-app/main/default/classes",
+        {
+            "sourcePath": "/Users/i860042/iWeek2019/AppCenterReferral/force-app/main/default/classes",
+            "isDirectory": true,
+            "size": 384,
+            "modifiedTime": 1548556564666,
+            "changeTime": 1548556564666,
+            "contentHash": "79cd6a47be04d6a764839f363914243b68d5b728",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/i860042/iWeek2019/AppCenterReferral/force-app/main/default/classes/AppCenterController.cls",
+        {
+            "sourcePath": "/Users/i860042/iWeek2019/AppCenterReferral/force-app/main/default/classes/AppCenterController.cls",
+            "isDirectory": false,
+            "size": 6102,
+            "modifiedTime": 1548556564638,
+            "changeTime": 1548556564638,
+            "contentHash": "2b8c436f7435da5cc26d3f67f1be512f3f116449",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/i860042/iWeek2019/AppCenterReferral/force-app/main/default/classes/AppCenterController.cls-meta.xml",
+        {
+            "sourcePath": "/Users/i860042/iWeek2019/AppCenterReferral/force-app/main/default/classes/AppCenterController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1548556564634,
+            "changeTime": 1548556564634,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/i860042/iWeek2019/AppCenterReferral/force-app/main/default/classes/AppCenterControllerTest.cls",
+        {
+            "sourcePath": "/Users/i860042/iWeek2019/AppCenterReferral/force-app/main/default/classes/AppCenterControllerTest.cls",
+            "isDirectory": false,
+            "size": 1830,
+            "modifiedTime": 1548556564645,
+            "changeTime": 1548556564645,
+            "contentHash": "7ab75040a33ec962f9c73c0f31129cfe5f70be6a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/i860042/iWeek2019/AppCenterReferral/force-app/main/default/classes/AppCenterControllerTest.cls-meta.xml",
+        {
+            "sourcePath": "/Users/i860042/iWeek2019/AppCenterReferral/force-app/main/default/classes/AppCenterControllerTest.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1548556564643,
+            "changeTime": 1548556564643,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/i860042/iWeek2019/AppCenterReferral/force-app/main/default/classes/EmailTemplateTaskWhoDataController.cls",
+        {
+            "sourcePath": "/Users/i860042/iWeek2019/AppCenterReferral/force-app/main/default/classes/EmailTemplateTaskWhoDataController.cls",
+            "isDirectory": false,
+            "size": 5500,
+            "modifiedTime": 1548556564653,
+            "changeTime": 1548556564653,
+            "contentHash": "c316e3ebb4f246ba9b2225bac37251656cce8f47",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/i860042/iWeek2019/AppCenterReferral/force-app/main/default/classes/EmailTemplateTaskWhoDataController.cls-meta.xml",
+        {
+            "sourcePath": "/Users/i860042/iWeek2019/AppCenterReferral/force-app/main/default/classes/EmailTemplateTaskWhoDataController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1548556564650,
+            "changeTime": 1548556564650,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/i860042/iWeek2019/AppCenterReferral/force-app/main/default/classes/EmailTemplateTaskWhoDataControllerTest.cls",
+        {
+            "sourcePath": "/Users/i860042/iWeek2019/AppCenterReferral/force-app/main/default/classes/EmailTemplateTaskWhoDataControllerTest.cls",
+            "isDirectory": false,
+            "size": 1554,
+            "modifiedTime": 1548556564660,
+            "changeTime": 1548556564660,
+            "contentHash": "d6cbceee948aee8b32dc9f677c750f26db8a86cb",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/i860042/iWeek2019/AppCenterReferral/force-app/main/default/classes/EmailTemplateTaskWhoDataControllerTest.cls-meta.xml",
+        {
+            "sourcePath": "/Users/i860042/iWeek2019/AppCenterReferral/force-app/main/default/classes/EmailTemplateTaskWhoDataControllerTest.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1548556564657,
+            "changeTime": 1548556564657,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/i860042/iWeek2019/AppCenterReferral/force-app/main/default/classes/EmailToPartner.cls",
+        {
+            "sourcePath": "/Users/i860042/iWeek2019/AppCenterReferral/force-app/main/default/classes/EmailToPartner.cls",
+            "isDirectory": false,
+            "size": 2463,
+            "modifiedTime": 1548556564668,
+            "changeTime": 1548556564668,
+            "contentHash": "542e57f9b5435512ca83e3e5367e329ff2b2d5f2",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/i860042/iWeek2019/AppCenterReferral/force-app/main/default/classes/EmailToPartner.cls-meta.xml",
+        {
+            "sourcePath": "/Users/i860042/iWeek2019/AppCenterReferral/force-app/main/default/classes/EmailToPartner.cls-meta.xml",
+            "isDirectory": false,
+            "size": 330,
+            "modifiedTime": 1548556564665,
+            "changeTime": 1548556564665,
+            "contentHash": "2869b66c60fccdb7d729a10afe5d9a6cc0d66b40",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/i860042/iWeek2019/AppCenterReferral/force-app/main/default/components",
+        {
+            "sourcePath": "/Users/i860042/iWeek2019/AppCenterReferral/force-app/main/default/components",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1548556564675,
+            "changeTime": 1548556564675,
+            "contentHash": "80a71d1b0339c7fbf9604a3ee7bec55e31d19f05",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/i860042/iWeek2019/AppCenterReferral/force-app/main/default/components/EmailTemplateTaskWhoData.component",
+        {
+            "sourcePath": "/Users/i860042/iWeek2019/AppCenterReferral/force-app/main/default/components/EmailTemplateTaskWhoData.component",
+            "isDirectory": false,
+            "size": 564,
+            "modifiedTime": 1548556564676,
+            "changeTime": 1548556564676,
+            "contentHash": "f6a5511efc8c4dab9f2ef2931d664cde39e253c0",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/i860042/iWeek2019/AppCenterReferral/force-app/main/default/components/EmailTemplateTaskWhoData.component-meta.xml",
+        {
+            "sourcePath": "/Users/i860042/iWeek2019/AppCenterReferral/force-app/main/default/components/EmailTemplateTaskWhoData.component-meta.xml",
+            "isDirectory": false,
+            "size": 198,
+            "modifiedTime": 1548556564674,
+            "changeTime": 1548556564674,
+            "contentHash": "75edd03b9987d97ab5b755df5e518ff9a0f343e7",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/i860042/iWeek2019/AppCenterReferral/force-app/main/default/email",
+        {
+            "sourcePath": "/Users/i860042/iWeek2019/AppCenterReferral/force-app/main/default/email",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1548556564961,
+            "changeTime": 1548556564961,
+            "contentHash": "36b4ca4c5731877fa01de2265bc0e080036f21b0",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/i860042/iWeek2019/AppCenterReferral/force-app/main/default/email/unfiled$public",
+        {
+            "sourcePath": "/Users/i860042/iWeek2019/AppCenterReferral/force-app/main/default/email/unfiled$public",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1548556564969,
+            "changeTime": 1548556564969,
+            "contentHash": "a25dad8ab89a1de299278dc221f01edd35a1d9da",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/i860042/iWeek2019/AppCenterReferral/force-app/main/default/email/unfiled$public/App_Center_Referral_Task_Email_VF.email",
+        {
+            "sourcePath": "/Users/i860042/iWeek2019/AppCenterReferral/force-app/main/default/email/unfiled$public/App_Center_Referral_Task_Email_VF.email",
+            "isDirectory": false,
+            "size": 4891,
+            "modifiedTime": 1548556564969,
+            "changeTime": 1548556564969,
+            "contentHash": "d29452d345546be404bdcc0ef926340d02f4bdd9",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/i860042/iWeek2019/AppCenterReferral/force-app/main/default/email/unfiled$public/App_Center_Referral_Task_Email_VF.email-meta.xml",
+        {
+            "sourcePath": "/Users/i860042/iWeek2019/AppCenterReferral/force-app/main/default/email/unfiled$public/App_Center_Referral_Task_Email_VF.email-meta.xml",
+            "isDirectory": false,
+            "size": 497,
+            "modifiedTime": 1548556564964,
+            "changeTime": 1548556564964,
+            "contentHash": "d4704a0780ea0d0fd2258e7d58cbacf1ad7bc97f",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/i860042/iWeek2019/AppCenterReferral/force-app/main/default/lwc",
+        {
+            "sourcePath": "/Users/i860042/iWeek2019/AppCenterReferral/force-app/main/default/lwc",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1548556141901,
+            "changeTime": 1548556141901,
+            "contentHash": "a973ac1b5be0e216b2a2db1b82ae5ba97f4086f4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/i860042/iWeek2019/AppCenterReferral/force-app/main/default/objects",
+        {
+            "sourcePath": "/Users/i860042/iWeek2019/AppCenterReferral/force-app/main/default/objects",
+            "isDirectory": true,
+            "size": 192,
+            "modifiedTime": 1548556564942,
+            "changeTime": 1548556564942,
+            "contentHash": "5fd32dd87728c1809ac627e4ddfb3f85ae3a50e0",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/i860042/iWeek2019/AppCenterReferral/force-app/main/default/objects/Account",
+        {
+            "sourcePath": "/Users/i860042/iWeek2019/AppCenterReferral/force-app/main/default/objects/Account",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1548556564687,
+            "changeTime": 1548556564687,
+            "contentHash": "5a5cc991c8cd217e98c96eab4a72b0a6cff70cfd",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/i860042/iWeek2019/AppCenterReferral/force-app/main/default/objects/Account/fields",
+        {
+            "sourcePath": "/Users/i860042/iWeek2019/AppCenterReferral/force-app/main/default/objects/Account/fields",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1548556564686,
+            "changeTime": 1548556564686,
+            "contentHash": "703c48ed4b7d166ee5707f9b4080459e53d65fcf",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/i860042/iWeek2019/AppCenterReferral/force-app/main/default/objects/Account/fields/SOSAO__SecondAccountOwner__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/i860042/iWeek2019/AppCenterReferral/force-app/main/default/objects/Account/fields/SOSAO__SecondAccountOwner__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 718,
+            "modifiedTime": 1548556564687,
+            "changeTime": 1548556564687,
+            "contentHash": "515ba5d28041bef4e7190d4ccedf6bdb2b3283b3",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/i860042/iWeek2019/AppCenterReferral/force-app/main/default/objects/Account/webLinks",
+        {
+            "sourcePath": "/Users/i860042/iWeek2019/AppCenterReferral/force-app/main/default/objects/Account/webLinks",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1548556564687,
+            "changeTime": 1548556564687,
+            "contentHash": "a55381366b449b7b073e43eec8da62c8bd4c1e20",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/i860042/iWeek2019/AppCenterReferral/force-app/main/default/objects/Account/webLinks/App_Center_Referral.webLink-meta.xml",
+        {
+            "sourcePath": "/Users/i860042/iWeek2019/AppCenterReferral/force-app/main/default/objects/Account/webLinks/App_Center_Referral.webLink-meta.xml",
+            "isDirectory": false,
+            "size": 498,
+            "modifiedTime": 1548556564687,
+            "changeTime": 1548556564687,
+            "contentHash": "868da82b7f244178e90ba53db5fcb910606886d8",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/i860042/iWeek2019/AppCenterReferral/force-app/main/default/objects/Activity",
+        {
+            "sourcePath": "/Users/i860042/iWeek2019/AppCenterReferral/force-app/main/default/objects/Activity",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1548556564692,
+            "changeTime": 1548556564692,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/i860042/iWeek2019/AppCenterReferral/force-app/main/default/objects/Activity/fields",
+        {
+            "sourcePath": "/Users/i860042/iWeek2019/AppCenterReferral/force-app/main/default/objects/Activity/fields",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1548556564693,
+            "changeTime": 1548556564693,
+            "contentHash": "1e73c8ffee9e3af0e6996a4f05a8b42b652c6083",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/i860042/iWeek2019/AppCenterReferral/force-app/main/default/objects/Activity/fields/App_Center_Partner__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/i860042/iWeek2019/AppCenterReferral/force-app/main/default/objects/Activity/fields/App_Center_Partner__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 340,
+            "modifiedTime": 1548556564692,
+            "changeTime": 1548556564692,
+            "contentHash": "6437204d50992c378f2e691a814ac10d7c877c52",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/i860042/iWeek2019/AppCenterReferral/force-app/main/default/objects/Activity/fields/Contact_Me_First__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/i860042/iWeek2019/AppCenterReferral/force-app/main/default/objects/Activity/fields/Contact_Me_First__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 297,
+            "modifiedTime": 1548556564693,
+            "changeTime": 1548556564693,
+            "contentHash": "99bb4b2341db98f4069bc2c7bc8a978ca8ec2948",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/i860042/iWeek2019/AppCenterReferral/force-app/main/default/objects/Contact",
+        {
+            "sourcePath": "/Users/i860042/iWeek2019/AppCenterReferral/force-app/main/default/objects/Contact",
+            "isDirectory": true,
+            "size": 160,
+            "modifiedTime": 1548556564927,
+            "changeTime": 1548556564927,
+            "contentHash": "8f42b4b0c1fde67cb3ccf6d519d5593d76534501",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/i860042/iWeek2019/AppCenterReferral/force-app/main/default/objects/Contact/fields",
+        {
+            "sourcePath": "/Users/i860042/iWeek2019/AppCenterReferral/force-app/main/default/objects/Contact/fields",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1548556564904,
+            "changeTime": 1548556564904,
+            "contentHash": "4a6cfe1674799ecff9233d458fc62f0910bd503d",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/i860042/iWeek2019/AppCenterReferral/force-app/main/default/objects/Contact/fields/Billing_Country__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/i860042/iWeek2019/AppCenterReferral/force-app/main/default/objects/Contact/fields/Billing_Country__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 45251,
+            "modifiedTime": 1548556603946,
+            "changeTime": 1548556603946,
+            "contentHash": "8fbba22d78eb81b20b799b861e8ca5466c9a956a",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/i860042/iWeek2019/AppCenterReferral/force-app/main/default/objects/Contact/recordTypes",
+        {
+            "sourcePath": "/Users/i860042/iWeek2019/AppCenterReferral/force-app/main/default/objects/Contact/recordTypes",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1548556564926,
+            "changeTime": 1548556564926,
+            "contentHash": "26a24de6324fef66a7b866f4d3234c6b983b7e27",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/i860042/iWeek2019/AppCenterReferral/force-app/main/default/objects/Contact/recordTypes/GlobalExpense_Service_Profile.recordType-meta.xml",
+        {
+            "sourcePath": "/Users/i860042/iWeek2019/AppCenterReferral/force-app/main/default/objects/Contact/recordTypes/GlobalExpense_Service_Profile.recordType-meta.xml",
+            "isDirectory": false,
+            "size": 34680,
+            "modifiedTime": 1548556564927,
+            "changeTime": 1548556564927,
+            "contentHash": "b86478b38528796d15a61adcd82cf0d96d7b704d",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/i860042/iWeek2019/AppCenterReferral/force-app/main/default/objects/Contact/webLinks",
+        {
+            "sourcePath": "/Users/i860042/iWeek2019/AppCenterReferral/force-app/main/default/objects/Contact/webLinks",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1548556564928,
+            "changeTime": 1548556564928,
+            "contentHash": "a55381366b449b7b073e43eec8da62c8bd4c1e20",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/i860042/iWeek2019/AppCenterReferral/force-app/main/default/objects/Contact/webLinks/App_Center_Referral.webLink-meta.xml",
+        {
+            "sourcePath": "/Users/i860042/iWeek2019/AppCenterReferral/force-app/main/default/objects/Contact/webLinks/App_Center_Referral.webLink-meta.xml",
+            "isDirectory": false,
+            "size": 498,
+            "modifiedTime": 1548556564928,
+            "changeTime": 1548556564928,
+            "contentHash": "bfa062c316ea069ce9780a1cb27621db83bd8fb8",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/i860042/iWeek2019/AppCenterReferral/force-app/main/default/objects/Partners_Configuration__c",
+        {
+            "sourcePath": "/Users/i860042/iWeek2019/AppCenterReferral/force-app/main/default/objects/Partners_Configuration__c",
+            "isDirectory": true,
+            "size": 160,
+            "modifiedTime": 1548556564944,
+            "changeTime": 1548556564944,
+            "contentHash": "a3cf91f07bf4142d93751e9f80ce6264062f4305",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/i860042/iWeek2019/AppCenterReferral/force-app/main/default/objects/Partners_Configuration__c/Partners_Configuration__c.object-meta.xml",
+        {
+            "sourcePath": "/Users/i860042/iWeek2019/AppCenterReferral/force-app/main/default/objects/Partners_Configuration__c/Partners_Configuration__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 2101,
+            "modifiedTime": 1548556564942,
+            "changeTime": 1548556564942,
+            "contentHash": "614ba5e8033cf53b2cdd82e98416ae4fd4ac6dd9",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/i860042/iWeek2019/AppCenterReferral/force-app/main/default/objects/Partners_Configuration__c/fields",
+        {
+            "sourcePath": "/Users/i860042/iWeek2019/AppCenterReferral/force-app/main/default/objects/Partners_Configuration__c/fields",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1548556564944,
+            "changeTime": 1548556564944,
+            "contentHash": "04eea94287e8fb9b29a56c8fca73032879928f71",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/i860042/iWeek2019/AppCenterReferral/force-app/main/default/objects/Partners_Configuration__c/fields/Partner_Category__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/i860042/iWeek2019/AppCenterReferral/force-app/main/default/objects/Partners_Configuration__c/fields/Partner_Category__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 1773,
+            "modifiedTime": 1548556564943,
+            "changeTime": 1548556564943,
+            "contentHash": "230efe76379c4150c0b11f34f0a72a32a78207db",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/i860042/iWeek2019/AppCenterReferral/force-app/main/default/objects/Partners_Configuration__c/fields/Partner_Email__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/i860042/iWeek2019/AppCenterReferral/force-app/main/default/objects/Partners_Configuration__c/fields/Partner_Email__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 442,
+            "modifiedTime": 1548556564944,
+            "changeTime": 1548556564944,
+            "contentHash": "06235d571be30ea6f76b24ea2fc97de715b280ac",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/i860042/iWeek2019/AppCenterReferral/force-app/main/default/objects/Partners_Configuration__c/listViews",
+        {
+            "sourcePath": "/Users/i860042/iWeek2019/AppCenterReferral/force-app/main/default/objects/Partners_Configuration__c/listViews",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1548556564945,
+            "changeTime": 1548556564945,
+            "contentHash": "915f0742a4220017a64d6be3c304efdec607b791",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/i860042/iWeek2019/AppCenterReferral/force-app/main/default/objects/Partners_Configuration__c/listViews/All.listView-meta.xml",
+        {
+            "sourcePath": "/Users/i860042/iWeek2019/AppCenterReferral/force-app/main/default/objects/Partners_Configuration__c/listViews/All.listView-meta.xml",
+            "isDirectory": false,
+            "size": 346,
+            "modifiedTime": 1548556564944,
+            "changeTime": 1548556564944,
+            "contentHash": "ce134aab27dcdaeae0c553e7f3699928ac95baf9",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/i860042/iWeek2019/AppCenterReferral/force-app/main/default/objects/Partners_Configuration__c/listViews/All1.listView-meta.xml",
+        {
+            "sourcePath": "/Users/i860042/iWeek2019/AppCenterReferral/force-app/main/default/objects/Partners_Configuration__c/listViews/All1.listView-meta.xml",
+            "isDirectory": false,
+            "size": 205,
+            "modifiedTime": 1548556564945,
+            "changeTime": 1548556564945,
+            "contentHash": "301c9a001074105644f45e03f6240b10381e43c0",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/i860042/iWeek2019/AppCenterReferral/force-app/main/default/pages",
+        {
+            "sourcePath": "/Users/i860042/iWeek2019/AppCenterReferral/force-app/main/default/pages",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1548556564953,
+            "changeTime": 1548556564953,
+            "contentHash": "7f71839030470decac4e2991d275a4c33ba988ab",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/i860042/iWeek2019/AppCenterReferral/force-app/main/default/pages/AppCenterReferral.page",
+        {
+            "sourcePath": "/Users/i860042/iWeek2019/AppCenterReferral/force-app/main/default/pages/AppCenterReferral.page",
+            "isDirectory": false,
+            "size": 5532,
+            "modifiedTime": 1548556564954,
+            "changeTime": 1548556564954,
+            "contentHash": "d0709d3287764b5ffc81acdc98845f18441da6f3",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/i860042/iWeek2019/AppCenterReferral/force-app/main/default/pages/AppCenterReferral.page-meta.xml",
+        {
+            "sourcePath": "/Users/i860042/iWeek2019/AppCenterReferral/force-app/main/default/pages/AppCenterReferral.page-meta.xml",
+            "isDirectory": false,
+            "size": 293,
+            "modifiedTime": 1548556564951,
+            "changeTime": 1548556564951,
+            "contentHash": "74692e099b0b9fdc8757f332f636cc31dfcac19a",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/i860042/iWeek2019/AppCenterReferral",
+        {
+            "sourcePath": "/Users/i860042/iWeek2019/AppCenterReferral",
+            "isDirectory": true,
+            "size": 352,
+            "modifiedTime": 1548556339644,
+            "changeTime": 1548556339644,
+            "contentHash": "5197c970b1a49f81444df0df027fd6bb8bb7224c",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/i860042/iWeek2019/AppCenterReferral/force-app/main/default/standardValueSets",
+        {
+            "state": "u",
+            "sourcePath": "/Users/i860042/iWeek2019/AppCenterReferral/force-app/main/default/standardValueSets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1548616601145,
+            "changeTime": 1548616601145,
+            "contentHash": "175c18a04816ebc4d58dc0099f9b7e6826a15b65"
+        }
+    ],
+    [
+        "/Users/i860042/iWeek2019/AppCenterReferral/force-app/main/default/objects/Task",
+        {
+            "state": "u",
+            "sourcePath": "/Users/i860042/iWeek2019/AppCenterReferral/force-app/main/default/objects/Task",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1548610814591,
+            "changeTime": 1548610814591,
+            "contentHash": "01e62e8f969d1224b9785ce9509e9b90b753394f"
+        }
+    ],
+    [
+        "/Users/i860042/iWeek2019/AppCenterReferral/force-app/main/default/objects/Task/recordTypes",
+        {
+            "state": "u",
+            "sourcePath": "/Users/i860042/iWeek2019/AppCenterReferral/force-app/main/default/objects/Task/recordTypes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1548610814596,
+            "changeTime": 1548610814596,
+            "contentHash": "e3c45c988298c926b56fea8a1ded0c385b63a895"
+        }
+    ],
+    [
+        "/Users/i860042/iWeek2019/AppCenterReferral/force-app/main/default/standardValueSets/LeadSource.standardValueSet-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/i860042/iWeek2019/AppCenterReferral/force-app/main/default/standardValueSets/LeadSource.standardValueSet-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 7384,
+            "modifiedTime": 1548612481211,
+            "changeTime": 1548612481211,
+            "contentHash": "b7b7f4948883ab3f32acacb3589450f655aef9d1"
+        }
+    ],
+    [
+        "/Users/i860042/iWeek2019/AppCenterReferral/force-app/main/default/standardValueSets/TaskSubject.standardValueSet-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/i860042/iWeek2019/AppCenterReferral/force-app/main/default/standardValueSets/TaskSubject.standardValueSet-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 15868,
+            "modifiedTime": 1548616268168,
+            "changeTime": 1548616268168,
+            "contentHash": "0522b9c28ac24046e5c83938480e029a6f9b1b76"
+        }
+    ],
+    [
+        "/Users/i860042/iWeek2019/AppCenterReferral/force-app/main/default/standardValueSets/TaskType.standardValueSet-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/i860042/iWeek2019/AppCenterReferral/force-app/main/default/standardValueSets/TaskType.standardValueSet-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 14509,
+            "modifiedTime": 1548616601146,
+            "changeTime": 1548616601146,
+            "contentHash": "5fd75b9cbc27d9ad0be535fd26dc31136dbf93ac"
+        }
+    ],
+    [
+        "/Users/i860042/iWeek2019/AppCenterReferral/force-app/main/default/objects/Task/recordTypes/App_Center_Referral.recordType-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/i860042/iWeek2019/AppCenterReferral/force-app/main/default/objects/Task/recordTypes/App_Center_Referral.recordType-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 22280,
+            "modifiedTime": 1548610814596,
+            "changeTime": 1548610814596,
+            "contentHash": "b42fcb40d7f4922215b74d7c8be7afb3d3dfe00b"
+        }
+    ],
+    [
+        "/Users/i860042/iWeek2019/AppCenterReferral/force-app/main/default/objects/Contact/fields/LeadSource.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/i860042/iWeek2019/AppCenterReferral/force-app/main/default/objects/Contact/fields/LeadSource.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 264,
+            "modifiedTime": 1548611371365,
+            "changeTime": 1548611371365,
+            "contentHash": "874b689c95624f6f821ae149658bf27fcb8a1f09"
+        }
+    ]
+]

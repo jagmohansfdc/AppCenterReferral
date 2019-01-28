@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StandardValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <sorted>true</sorted>
+    <standardValue>
+        <fullName>ADP Sales Credit</fullName>
+        <default>false</default>
+        <label>ADP Sales Credit</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Advisor Program - Advisor</fullName>
+        <default>false</default>
+        <label>Advisor Program - Advisor</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Breeze Referral</fullName>
+        <default>false</default>
+        <label>Breeze Referral</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Channel - Channel Marketing</fullName>
+        <default>false</default>
+        <label>Channel - Channel Marketing</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Client Business Review</fullName>
+        <default>false</default>
+        <label>Client Business Review</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Concur App Center</fullName>
+        <default>false</default>
+        <label>Concur App Center</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Concur App Center Invoice</fullName>
+        <default>false</default>
+        <label>Concur App Center Invoice</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Concur Connect Partner Application</fullName>
+        <default>false</default>
+        <label>Concur Connect Partner Application</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Connect&amp;Sell</fullName>
+        <default>false</default>
+        <label>Connect&amp;Sell</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Data.com</fullName>
+        <default>false</default>
+        <label>Data.com</label>
+    </standardValue>
+    <standardValue>
+        <fullName>DCOMM - Add-On</fullName>
+        <default>false</default>
+        <label>DCOMM - Add-On</label>
+    </standardValue>
+    <standardValue>
+        <fullName>DCOMM - FTC</fullName>
+        <default>false</default>
+        <label>DCOMM - FTC</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Events - Concur User Conference</fullName>
+        <default>false</default>
+        <label>Events - Concur User Conference</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Events - Roadshow</fullName>
+        <default>false</default>
+        <label>Events - Roadshow</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Events - Trade Show</fullName>
+        <default>false</default>
+        <label>Events - Trade Show</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Gainsight</fullName>
+        <default>false</default>
+        <label>Gainsight</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Implementation Team</fullName>
+        <default>false</default>
+        <label>Implementation Team</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Inbound</fullName>
+        <default>false</default>
+        <label>Inbound</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Inbound - Call</fullName>
+        <default>false</default>
+        <label>Inbound - Call</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Inbound - Call (Support Desk)</fullName>
+        <default>false</default>
+        <label>Inbound - Call (Support Desk)</label>
+    </standardValue>
+    <standardValue>
+        <fullName>InsideView</fullName>
+        <default>false</default>
+        <label>InsideView</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Internal - Out Of Term PI Program</fullName>
+        <default>false</default>
+        <label>Internal - Out Of Term PI Program</label>
+    </standardValue>
+    <standardValue>
+        <fullName>MDR</fullName>
+        <default>false</default>
+        <label>MDR</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Other</fullName>
+        <default>false</default>
+        <label>Other</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Outbound - Call</fullName>
+        <default>false</default>
+        <label>Outbound - Call</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Outbound - Outsourced Telemarketing</fullName>
+        <default>false</default>
+        <label>Outbound - Outsourced Telemarketing</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Package Installation</fullName>
+        <default>false</default>
+        <label>Package Installation</label>
+    </standardValue>
+    <standardValue>
+        <fullName>PE Operations</fullName>
+        <default>false</default>
+        <label>PE Operations</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Print Ads</fullName>
+        <default>false</default>
+        <label>Print Ads</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Private Equity Firms</fullName>
+        <default>false</default>
+        <label>Private Equity Firms</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Programs - Direct Mail</fullName>
+        <default>false</default>
+        <label>Programs - Direct Mail</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Programs - Email Marketing</fullName>
+        <default>false</default>
+        <label>Programs - Email Marketing</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Programs - Events</fullName>
+        <default>false</default>
+        <label>Programs - Events</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Programs - Nurture Programs</fullName>
+        <default>false</default>
+        <label>Programs - Nurture Programs</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Programs - Online Marketing</fullName>
+        <default>false</default>
+        <label>Programs - Online Marketing</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Programs - Sponsored Webinar</fullName>
+        <default>false</default>
+        <label>Programs - Sponsored Webinar</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Referral - Other</fullName>
+        <default>false</default>
+        <label>Referral - Other</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Referral Program</fullName>
+        <default>false</default>
+        <label>Referral Program</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Replicon Sales Credit</fullName>
+        <default>false</default>
+        <label>Replicon Sales Credit</label>
+    </standardValue>
+    <standardValue>
+        <fullName>SalesView</fullName>
+        <default>false</default>
+        <label>SalesView</label>
+    </standardValue>
+    <standardValue>
+        <fullName>SAP PE Team</fullName>
+        <default>false</default>
+        <label>SAP PE Team</label>
+    </standardValue>
+    <standardValue>
+        <fullName>TMC Reseller</fullName>
+        <default>false</default>
+        <label>TMC Reseller</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Travel Account Manager Lead</fullName>
+        <default>false</default>
+        <label>Travel Account Manager Lead</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Web</fullName>
+        <default>false</default>
+        <label>Web</label>
+    </standardValue>
+</StandardValueSet>

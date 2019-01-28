@@ -1,0 +1,1132 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef1"
+            },
+            "Name": "Meican Banquets Expense",
+            "Partner_Email__c": "Bianjunjun@meican.com;AppCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef2"
+            },
+            "Name": "Gavdi Expense",
+            "Partner_Email__c": "mle@gavdi.com;AppCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef3"
+            },
+            "Name": "ourshared Data-Infor SunSystems Expense",
+            "Partner_Email__c": "support@evolutiondynamic.com;AppCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef4"
+            },
+            "Name": "ourshared Data-Infor SunSystems Invoice",
+            "Partner_Email__c": "support@evolutiondynamic.com;AppCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef5"
+            },
+            "Name": "Test",
+            "Partner_Email__c": "brett.oyer@sap.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef6"
+            },
+            "Name": "NT-ware uniflow Online",
+            "Partner_Email__c": "marketing@nt-ware.com;AppCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef7"
+            },
+            "Name": "Blackspark TMX",
+            "Partner_Email__c": "sales@blacksparkcorp.com;AppCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef8"
+            },
+            "Name": "Apexconnect Ultipro",
+            "Partner_Email__c": "sales@apexconnect.io;AppCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef9"
+            },
+            "Name": "Cloudsnap",
+            "Partner_Email__c": "Sales@cloudsnap.com;AppCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef10"
+            },
+            "Name": "Taxback Invoice",
+            "Partner_Email__c": "concurappcenterleads@taxback.com;AppCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef11"
+            },
+            "Name": "Realisable Software",
+            "Partner_Email__c": "concur@realisable.co.uk;AppCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef12"
+            },
+            "Name": "RefundMyTicket",
+            "Partner_Email__c": "corporate@refundmyticket.net;AppCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef13"
+            },
+            "Name": "Replicon",
+            "Partner_Email__c": "alliances@replicon.com;AppCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef14"
+            },
+            "Name": "Ricoh ICE",
+            "Partner_Email__c": "kaoru.watanabe@ricoh-usa.com;AppCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef15"
+            },
+            "Name": "Rocketrip",
+            "Partner_Email__c": "sales@rocketrip.com;AppCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef16"
+            },
+            "Name": "routeRANK Ltd",
+            "Partner_Email__c": "concur@routerank.com;AppCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef17"
+            },
+            "Name": "IMS R Squared",
+            "Partner_Email__c": "Kyle.Fenstermaker@r2ss.com;Jennifer.Bivona@r2ss.com;AppCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef18"
+            },
+            "Name": "Sand Solutions",
+            "Partner_Email__c": "sales@sandconnector.com;AppCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef19"
+            },
+            "Name": "TwoGo",
+            "Partner_Email__c": "twogo-sales@sap.com;AppCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef20"
+            },
+            "Name": "Sapphire Systems",
+            "Partner_Email__c": "info@sapphiresystems.com;appCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef21"
+            },
+            "Name": "Scope5",
+            "Partner_Email__c": "concur@scope5.com;AppCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef22"
+            },
+            "Name": "Sovos",
+            "Partner_Email__c": "ben.nason@sovos.com;AppCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef23"
+            },
+            "Name": "StayInFront CRM",
+            "Partner_Email__c": "sales@stayinfront.com;AppCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef24"
+            },
+            "Name": "SummitQwest Ground",
+            "Partner_Email__c": "jlafave@summitqwest.com;AppCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef25"
+            },
+            "Name": "Talixo",
+            "Partner_Email__c": "concur@talixo.de;AppCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef26"
+            },
+            "Name": "Taxback Expense",
+            "Partner_Email__c": "concurappcenterleads@taxback.com;AppCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef27"
+            },
+            "Name": "Taxeo",
+            "Partner_Email__c": "concurleads@taxeo.com;AppCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef28"
+            },
+            "Name": "TBoxCloud",
+            "Partner_Email__c": "leads@tboxcloud.com;AppCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef29"
+            },
+            "Name": "Upland Software - Tenrox",
+            "Partner_Email__c": "tpiunno@uplandsoftware.com;AppCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef30"
+            },
+            "Name": "Upland Software - Timesheet",
+            "Partner_Email__c": "bbisson@uplandsoftware.com;AppCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef31"
+            },
+            "Name": "Thomson Reuters",
+            "Partner_Email__c": "Shane.Makanani@thomsonreuters.com;IndirectTax.Cloud@ThomsonReuters.com;AppCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef32"
+            },
+            "Name": "TopRep",
+            "Partner_Email__c": "info@toprep.co.jp;AppCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef33"
+            },
+            "Name": "Travel Fusion",
+            "Partner_Email__c": "sales@travelfusion.com;AppCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef34"
+            },
+            "Name": "TripLingo",
+            "Partner_Email__c": "concur_leads@triplingo.com;AppCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef35"
+            },
+            "Name": "TripLog",
+            "Partner_Email__c": "sales@esocialllc.com;AppCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef36"
+            },
+            "Name": "Uber for Business",
+            "Partner_Email__c": "alexb@uber.com;AppCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef37"
+            },
+            "Name": "VATBox",
+            "Partner_Email__c": "concur@vatbox.com;AppCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef38"
+            },
+            "Name": "VAT IT",
+            "Partner_Email__c": "vatcloud@vatit.com;AppCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef39"
+            },
+            "Name": "Veeva CRM Connector",
+            "Partner_Email__c": "ConcurSales@veeva.com;AppCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef40"
+            },
+            "Name": "Veeva Network Connector",
+            "Partner_Email__c": "ConcurSales@veeva.com;AppCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef41"
+            },
+            "Name": "Visage Mobility Central",
+            "Partner_Email__c": "concur@visagemobile.com;AppCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef42"
+            },
+            "Name": "Visage Roaming",
+            "Partner_Email__c": "concur@visagemobile.com;AppCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef43"
+            },
+            "Name": "HRS - Global Hotel Solutions",
+            "Partner_Email__c": "sandy.albrecht@hrs.com;AppCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef44"
+            },
+            "Name": "Saison",
+            "Partner_Email__c": "concur_sales@sis.saison.co.jp;AppCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef45"
+            },
+            "Name": "Air BNB",
+            "Partner_Email__c": "a4w.partnerships@airbnb.com;AppCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef46"
+            },
+            "Name": "Dow Jones Risk",
+            "Partner_Email__c": "mark.skulski@dowjones.com;AppCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef47"
+            },
+            "Name": "AddisonLee",
+            "Partner_Email__c": "concur@addisonlee.com;AppCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef48"
+            },
+            "Name": "Air Refund",
+            "Partner_Email__c": "concur@airrefund.com;AppCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef49"
+            },
+            "Name": "Alanda Software",
+            "Partner_Email__c": "carabis@alandasoftware.com;AppCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef50"
+            },
+            "Name": "Apexconnect Blackbaud Expense",
+            "Partner_Email__c": "sales@apexconnect.io;AppCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef51"
+            },
+            "Name": "Apexconnect Deltek Expense",
+            "Partner_Email__c": "sales@apexconnect.io;AppCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef52"
+            },
+            "Name": "Armanino Expense for Intacct",
+            "Partner_Email__c": "Consulting.Marketing@armaninollp.com;AppCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef53"
+            },
+            "Name": "Armanino Expense for GP",
+            "Partner_Email__c": "Consulting.Marketing@armaninollp.com;AppCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef54"
+            },
+            "Name": "ATEB Red COFIDI",
+            "Partner_Email__c": "ventas@ateb.com.mx;AppCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef55"
+            },
+            "Name": "Avalara",
+            "Partner_Email__c": "concursales@avalara.com;AppCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef56"
+            },
+            "Name": "AvisforBusiness",
+            "Partner_Email__c": "MaryPat.OToole@avisbudget.com;AppCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef57"
+            },
+            "Name": "Axosnet De Mexico SA DE CV",
+            "Partner_Email__c": "info@axosnet.com;AppCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef58"
+            },
+            "Name": "Azuqua Financial Force",
+            "Partner_Email__c": "connect@azuqua.com;AppCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef59"
+            },
+            "Name": "Azuqua",
+            "Partner_Email__c": "connect@azuqua.com;AppCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef60"
+            },
+            "Name": "Blackspark borderFile",
+            "Partner_Email__c": "sales@blacksparkcorp.com;AppCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef61"
+            },
+            "Name": "Booking.com",
+            "Partner_Email__c": "b2bpartners.support@booking.com;AppCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef62"
+            },
+            "Name": "Bristlecone Inc",
+            "Partner_Email__c": "sales.odisfkm@bcone.com;AppCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef63"
+            },
+            "Name": "Brittenford Dynamics GP Expense",
+            "Partner_Email__c": "RestonSales@wipfli.com;appCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef64"
+            },
+            "Name": "Brittenford Intacct Expense",
+            "Partner_Email__c": "RestonSales@wipfli.com;appCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef65"
+            },
+            "Name": "Brittenford Intacct Invoice",
+            "Partner_Email__c": "RestonSales@wipfli.com;appCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef66"
+            },
+            "Name": "Brittenford Dynamics GP Invoice",
+            "Partner_Email__c": "RestonSales@wipfli.com;appCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef67"
+            },
+            "Name": "Brittenford Dynamics AX Expense",
+            "Partner_Email__c": "RestonSales@wipfli.com;appCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef68"
+            },
+            "Name": "BusinessVisaHQ",
+            "Partner_Email__c": "concur@businessvisahq.com;justin.chapman@businessvisahq.com;AppCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef69"
+            },
+            "Name": "Caseware Analytics",
+            "Partner_Email__c": "salesidea@caseware.com;AppCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef70"
+            },
+            "Name": "Cash Back",
+            "Partner_Email__c": "cb@cashbackvatreclaim.com;AppCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef71"
+            },
+            "Name": "IMS Cegedim",
+            "Partner_Email__c": "marketing.leads@rm.imshealth.com;AppCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef72"
+            },
+            "Name": "IMS Cegedim 360",
+            "Partner_Email__c": "marketing.leads@rm.imshealth.com;AppCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef73"
+            },
+            "Name": "IMS Cegedim Nucleus 360",
+            "Partner_Email__c": "marketing.leads@rm.imshealth.com;AppCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef74"
+            },
+            "Name": "Centrify",
+            "Partner_Email__c": "bizdev@centrify.com;AppCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef75"
+            },
+            "Name": "CIBTvisas",
+            "Partner_Email__c": "concur.cibt@cibt.com;Carolyn.Moses@cibt.com;AppCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef76"
+            },
+            "Name": "Company Mileage",
+            "Partner_Email__c": "concur@companymileage.com;AppCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef77"
+            },
+            "Name": "Ctrip",
+            "Partner_Email__c": "xinglingdai@Ctrip.com;ekin.zang@sap.com;AppCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef78"
+            },
+            "Name": "Cvent",
+            "Partner_Email__c": "InboundSalesTeam@cvent.com;AppCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef79"
+            },
+            "Name": "Detecno",
+            "Partner_Email__c": "info@detecno.com;AppCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef80"
+            },
+            "Name": "eBillity",
+            "Partner_Email__c": "jdaee@ebillity.com;sales@ebillity.com;AppCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef81"
+            },
+            "Name": "Excluserv Expense",
+            "Partner_Email__c": "concur@excluserv.com;AppCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef82"
+            },
+            "Name": "EY",
+            "Partner_Email__c": "stbt.americas@ar.ey.com;AppCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef83"
+            },
+            "Name": "Flyte Tyme",
+            "Partner_Email__c": "sales@flytetymelimo.com;AppCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef84"
+            },
+            "Name": "Frosch International",
+            "Partner_Email__c": "steve.sedgwick@frosch.com;AppCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef85"
+            },
+            "Name": "Fuji Xerox",
+            "Partner_Email__c": "Anand.Dhir@fujixerox.com;AppCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef86"
+            },
+            "Name": "Full Sail Partner",
+            "Partner_Email__c": "concurreferrals@FullSailPartners.com;AppCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef87"
+            },
+            "Name": "GlobeXpenc",
+            "Partner_Email__c": "Sales@Globexpenc.com;AppCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef88"
+            },
+            "Name": "Gogo",
+            "Partner_Email__c": "Ttwohig@gogoair.com;AppCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef89"
+            },
+            "Name": "GorundScope",
+            "Partner_Email__c": "jmcCallion@groundscope.co.uk;AppCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef90"
+            },
+            "Name": "GroundSpan",
+            "Partner_Email__c": "support@groundspan.com;AppCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef91"
+            },
+            "Name": "ConcurTest",
+            "Partner_Email__c": "jagmohan.singh@sap.com;anitah@concur.com;laura.dark@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef92"
+            },
+            "Name": "Groupize",
+            "Partner_Email__c": "sales@groupize.com;info@groupize.com;AppCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef93"
+            },
+            "Name": "IMS HDS Concur Connect",
+            "Partner_Email__c": "sthl@fr.imshealth.com;AppCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef94"
+            },
+            "Name": "IQVIA AGS360",
+            "Partner_Email__c": "sthl@fr.imshealth.com;AppCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef95"
+            },
+            "Name": "Hotel Network",
+            "Partner_Email__c": "concurconnect@hotelnetwork.com.au;AppCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef96"
+            },
+            "Name": "Horizon",
+            "Partner_Email__c": "sales@horizonbiz.com.au;AppCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef97"
+            },
+            "Name": "Hotel Solutions",
+            "Partner_Email__c": "rlangsfeld@thecsg.com;AppCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef98"
+            },
+            "Name": "Interfactura",
+            "Partner_Email__c": "leadsinstitucional@backtrend.gdx.io;AppCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef99"
+            },
+            "Name": "InternationalSOSTravelTracker",
+            "Partner_Email__c": "andrew.leight@internationalsos.com;tmcreferrals@internationalsos.com;AppCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef100"
+            },
+            "Name": "InviteManager",
+            "Partner_Email__c": "info@ticketmanager.com;AppCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef101"
+            },
+            "Name": "Kimble",
+            "Partner_Email__c": "info@kimbleapps.com;AppCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef102"
+            },
+            "Name": "The Lido Group",
+            "Partner_Email__c": "sales@lido.com.au;AppCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef103"
+            },
+            "Name": "Limo.com for Business",
+            "Partner_Email__c": "sharon.saffel@limos.com;AppCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef104"
+            },
+            "Name": "MedPro Systems",
+            "Partner_Email__c": "concurleads@medprosystems.com;AppCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef105"
+            },
+            "Name": "MedPro Systems Invoice",
+            "Partner_Email__c": "ConcurLeads-exportforaggregatespend@medprosystems.com;AppCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef106"
+            },
+            "Name": "MedPro Systems Spend",
+            "Partner_Email__c": "concurleads-invoice@medprosystems.com;AppCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef107"
+            },
+            "Name": "Meridian VAT Reclaim",
+            "Partner_Email__c": "Concur@meridianvatreclaim.com;AppCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef108"
+            },
+            "Name": "Microsoft Azure AD",
+            "Partner_Email__c": "rosingh@microsoft.com;arian.white@concur.com;Aaron.Guerra@concur.com;AppCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef109"
+            },
+            "Name": "Monaeo",
+            "Partner_Email__c": "sales+concur@monaeo.com;AppCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef110"
+            },
+            "Name": "Motus",
+            "Partner_Email__c": "ConcurLeads@motus.com;AppCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef111"
+            },
+            "Name": "Nuvola SAP",
+            "Partner_Email__c": "Sales@cloudsnap.com;AppCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef112"
+            },
+            "Name": "Nuvola Acumatica",
+            "Partner_Email__c": "Sales@cloudsnap.com;AppCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef113"
+            },
+            "Name": "Okta",
+            "Partner_Email__c": "concur.leads@okta.com;AppCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef114"
+            },
+            "Name": "Omnify",
+            "Partner_Email__c": "sales@omnilogicsolutions.com;AppCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef115"
+            },
+            "Name": "OneLogin",
+            "Partner_Email__c": "partners@onelogin.com;AppCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef116"
+            },
+            "Name": "Oversight Systems",
+            "Partner_Email__c": "marketing@oversightsystems.com;concur@oversightsystems.com;AppCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef117"
+            },
+            "Name": "Pactera eFapiao WeChat",
+            "Partner_Email__c": "ekin.zang@sap.com;yuhan.zhou@pactera.com;jing.bi@pactera.com;AppCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef118"
+            },
+            "Name": "Park 'N Fly Network",
+            "Partner_Email__c": "tberlin@pnf.com;AppCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef119"
+            },
+            "Name": "Pearl Travel Tech",
+            "Partner_Email__c": "info@pearltraveltech.com;AppCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef120"
+            },
+            "Name": "Peninsula Visa",
+            "Partner_Email__c": "support@peninsulavisa.com;AppCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef121"
+            },
+            "Name": "Ping Identity",
+            "Partner_Email__c": "concur@pingidentity.com;AppCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef122"
+            },
+            "Name": "PivotPrime",
+            "Partner_Email__c": "concursales@pivotpayables.com;AppCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef123"
+            },
+            "Name": "PivotNexus Karmak",
+            "Partner_Email__c": "concursales@pivotpayables.com;AppCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef124"
+            },
+            "Name": "PivotNexus Invoice",
+            "Partner_Email__c": "concursales@pivotpayables.com;AppCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef125"
+            },
+            "Name": "PivotNexus Expense",
+            "Partner_Email__c": "concursales@pivotpayables.com;AppCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef126"
+            },
+            "Name": "Planet Risk",
+            "Partner_Email__c": "sales@planetrisk.com;AppCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef127"
+            },
+            "Name": "Quipsound",
+            "Partner_Email__c": "concur@quipsound.com;AppCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef128"
+            },
+            "Name": "Brittenford Dynamics AX Invoice",
+            "Partner_Email__c": "RestonSales@wipfli.com;appCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef129"
+            },
+            "Name": "Tripkicks Expense",
+            "Partner_Email__c": "hello@tripkicks.com;AppCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef130"
+            },
+            "Name": "Tripkicks Travel",
+            "Partner_Email__c": "hello@tripkicks.com;AppCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef131"
+            },
+            "Name": "Apexconnect Deltek Invoice",
+            "Partner_Email__c": "sales@apexconnect.io;AppCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef132"
+            },
+            "Name": "Pegaso CFDI Reviewer",
+            "Partner_Email__c": "venta@pegasotecnologia.com;appCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef133"
+            },
+            "Name": "Microsoft Dynamics AX",
+            "Partner_Email__c": "rosingh@microsoft.com;appCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef134"
+            },
+            "Name": "Brittenford Dynamics SL Expense",
+            "Partner_Email__c": "RestonSales@wipfli.com;appCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef135"
+            },
+            "Name": "AppZen",
+            "Partner_Email__c": "sales@groupize.com;AppCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef136"
+            },
+            "Name": "Brittenford Dynamics SL Invoice",
+            "Partner_Email__c": "RestonSales@wipfli.com;appCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef137"
+            },
+            "Name": "Apexconnect Yardi Expense",
+            "Partner_Email__c": "sales@apexconnect.io;AppCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef138"
+            },
+            "Name": "Excluserv Invoice",
+            "Partner_Email__c": "concur@excluserv.com;appCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef139"
+            },
+            "Name": "Apexconnect Yardi Invoice",
+            "Partner_Email__c": "sales@apexconnect.io;AppCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef140"
+            },
+            "Name": "Apexconnect Blackbaud Invoice",
+            "Partner_Email__c": "sales@apexconnect.io;AppCenterReferral@concur.com"
+        },
+        {
+            "attributes": {
+                "type": "Partners_Configuration__c",
+                "referenceId": "Partners_Configuration__cRef141"
+            },
+            "Name": "BST Global Expense",
+            "Partner_Email__c": "hello@bstglobal.com;AppCenterReferral@concur.com"
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Partner_Category__c</fullName>
+    <externalId>false</externalId>
+    <label>Partner Category</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Air &amp; Hotel</fullName>
+                <default>false</default>
+                <label>Air &amp; Hotel</label>
+            </value>
+            <value>
+                <fullName>Cars &amp; Trains</fullName>
+                <default>false</default>
+                <label>Cars &amp; Trains</label>
+            </value>
+            <value>
+                <fullName>Compliance &amp; Risk</fullName>
+                <default>false</default>
+                <label>Compliance &amp; Risk</label>
+            </value>
+            <value>
+                <fullName>Finance &amp; HR</fullName>
+                <default>false</default>
+                <label>Finance &amp; HR</label>
+            </value>
+            <value>
+                <fullName>Life Sciences</fullName>
+                <default>false</default>
+                <label>Life Sciences</label>
+            </value>
+            <value>
+                <fullName>IT Solutions</fullName>
+                <default>false</default>
+                <label>IT Solutions</label>
+            </value>
+            <value>
+                <fullName>Other Expenses</fullName>
+                <default>false</default>
+                <label>Other Expenses</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>
